@@ -24,11 +24,12 @@ I like to investigate, test and check any technology, so.. this list will be onl
 ![Ant](https://img.shields.io/badge/Apache-Ant-blue)
 ![CloudBees](https://img.shields.io/badge/-Jenkins-blue)
 ![Github Actions](https://img.shields.io/badge/Github-Actions-black)
+![Groovy](https://img.shields.io/badge/Apache-Groovy-blue)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-![Groovy](https://img.shields.io/badge/Apache-Groovy-blue)
+![Angular](https://img.shields.io/badge/Angular-14-blue)
 
 <!--
 **dubasdey/dubasdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
